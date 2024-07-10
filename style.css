@@ -1,0 +1,28 @@
+#wrapper{
+    margin:50px auto;
+    border: 2px solid black;
+    display: block;
+    background-color: aquamarine;
+    height: 400px;
+    width: 400px;
+}
+button{
+    display: block;
+    margin: 30px;
+    padding: 5px;
+}
+button:hover{
+    color: rgb(25, 2, 49);
+}
+input{
+    margin: 10px;
+}
+body{
+    background-color: hwb(82 73% 7%);
+}
+#result{
+    margin: 30px;
+}
+#month{
+    padding: 5px;
+}
